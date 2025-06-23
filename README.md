@@ -9,7 +9,7 @@ This project focuses on classifying the mode of transportation (e.g., **car**, *
 - **Model Used**: Random Forest Classifier (others like SVM and k-NN tested during prototyping).
 - **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`.
 
-## Requirements 
+## Intructions 
 1. To install all dependencies, run `pip install -r requirements.txt`
 
 2. To predict a trip, you must include the path to it in `predict_mode.py` samples are provided in test-set folder.
