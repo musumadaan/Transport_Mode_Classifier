@@ -7,7 +7,6 @@ This project focuses on classifying the mode of transportation (e.g., **car**, *
 - **Goal**: Automatically predict the user’s mode of transport using time-series sensor data.
 - **Dataset**: Collected from a smartphone with labeled intervals (car, bus, train, other).
 - **Model Used**: Random Forest Classifier (others like SVM and k-NN tested during prototyping).
-- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`.
 
 ## Instructions 
 1. To install all dependencies, run `pip install -r requirements.txt`
